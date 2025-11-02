@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # generated types
 .astro/
 
@@ -38,3 +39,6 @@ TODO
 test.html
 ad.js
 /.cache/
+=======
+git 
+>>>>>>> 5ce15df32097e55af13a19cad626ea44b8ab287b
